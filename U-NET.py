@@ -94,3 +94,6 @@ def test():
 
 if __name__ == '__main__': 
     test()
+# ÇIKTILAR
+Tahminlerimizin boyutu:torch.Size([3, 3, 160, 160])
+Girdilerin boyutu:torch.Size([3, 3, 160, 160])
